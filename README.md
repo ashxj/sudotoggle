@@ -101,7 +101,7 @@ User runs: sudotoggle -on
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sudotoggle.git
+git clone https://github.com/ashxj/sudotoggle.git
 cd sudotoggle
 
 # Make the script executable
